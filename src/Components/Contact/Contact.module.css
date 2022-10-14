@@ -1,0 +1,72 @@
+.Contact{
+    padding: 6rem;
+}
+
+
+
+.Contact h2{
+    color: rgb(44,62,80);
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 40px;
+
+}
+
+
+.formd{
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lineone{
+    background-color: rgb(44,62,80);
+    margin-left: 2rem;
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    font-size: 16px;
+    font-weight: 400;
+    height: 4px;
+    
+    border-radius: 1rem;
+}
+.linetwo{
+    background-color: rgb(44,62,80);
+    margin-right: 2rem;
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    font-size: 16px;
+    font-weight: 400;
+    height: 4px;
+
+    border-radius: 1rem;
+}
+
+.icon{
+    color: rgb(44,62,80);
+    font-size: 30px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+
+.formInput{
+    border-bottom: 1px solid #c4bfbf!important;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    color: #212529;
+    font-family: Lato,sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    margin-top: 5px;
+}
+
+
+.information button{
+    background-color: rgb(26,188,156);
+}

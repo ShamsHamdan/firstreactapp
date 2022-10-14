@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.navbarr{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    background-color: rgb(44,62,80);
+    
+    
+    
+}
+
+.navbar-brandd{
+    
+    color: white;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.75rem;
+    text-decoration: none;
+    line-height: 42px;
+    white-space: nowrap;
+}
+
+.navbar-brandd:hover{
+    color: rgb(26,188,156);
+}
+
+.navbarr .nav-ul a{
+    color: white;
+}
+
+.navbarr .nav-ul a:hover{
+    color: rgb(26,188,156);
+}
+
+
+
+
+@media  (min-width:350px) and (max-width:770px){
+    .navbarr{
+        padding-top: 1rem;
+        padding-bottom: 1rem;}
+}
